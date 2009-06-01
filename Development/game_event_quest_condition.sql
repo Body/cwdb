@@ -4,7 +4,7 @@ Source Host: localhost
 Source Database: mangos
 Target Host: localhost
 Target Database: mangos
-Date: 31.05.2009 23:47:50
+Date: 01.06.2009 18:14:25
 */
 
 SET FOREIGN_KEY_CHECKS=0;
@@ -23,14 +23,3 @@ CREATE TABLE `game_event_quest_condition` (
 -- ----------------------------
 -- Records 
 -- ----------------------------
-INSERT INTO `game_event_quest_condition` VALUES ('11524', '40', '1', '0.1');
-INSERT INTO `game_event_quest_condition` VALUES ('11496', '40', '1', '0.1');
-INSERT INTO `game_event_quest_condition` VALUES ('11538', '42', '1', '0.1');
-INSERT INTO `game_event_quest_condition` VALUES ('11532', '42', '1', '0.1');
-INSERT INTO `game_event_quest_condition` VALUES ('11513', '44', '1', '0.1');
-INSERT INTO `game_event_quest_condition` VALUES ('11542', '46', '1', '0.1');
-INSERT INTO `game_event_quest_condition` VALUES ('11539', '46', '1', '0.1');
-INSERT INTO `game_event_quest_condition` VALUES ('11535', '48', '1', '0.1');
-INSERT INTO `game_event_quest_condition` VALUES ('11520', '50', '1', '0.1');
-INSERT INTO `game_event_quest_condition` VALUES ('11545', '52', '1', '10');
-INSERT INTO `game_event_quest_condition` VALUES ('11549', '52', '1', '1000');

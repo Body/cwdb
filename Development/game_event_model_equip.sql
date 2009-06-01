@@ -4,7 +4,7 @@ Source Host: localhost
 Source Database: mangos
 Target Host: localhost
 Target Database: mangos
-Date: 31.05.2009 23:47:18
+Date: 01.06.2009 18:13:52
 */
 
 SET FOREIGN_KEY_CHECKS=0;
